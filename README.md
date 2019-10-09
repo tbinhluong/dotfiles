@@ -2,6 +2,6 @@
 
 ## Installation
 
-  git clone git://github.com/blnr102/dotfiles.git
-  dotfiles/install.sh
+     git clone git://github.com/blnr102/dotfiles.git
+     dotfiles/install.sh
 
